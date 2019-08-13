@@ -1,0 +1,228 @@
+{
+  "project_info": {
+    "project_number": "416073700005",
+    "firebase_url": "https://creaxtwebandmobileapp.firebaseio.com",
+    "project_id": "creaxtwebandmobileapp",
+    "storage_bucket": "creaxtwebandmobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416073700005:android:10fefab7e603b87c",
+        "android_client_info": {
+          "package_name": "com.mapflutter.mapflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416073700005-f2rpvuqgu53vcct81rfhc9hv8lsgore4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLS-Da8VGwhJAQTZIM0PMYpCfPSmTzDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416073700005-f2rpvuqgu53vcct81rfhc9hv8lsgore4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416073700005:android:369a09f2b497565f",
+        "android_client_info": {
+          "package_name": "inc.creaxt.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416073700005-i556pj7dgasaeuscot8hofb2q9mnm1a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.creaxt.log",
+            "certificate_hash": "70ea04d98f3d06a470d621e4120bc3b89b47e45c"
+          }
+        },
+        {
+          "client_id": "416073700005-f2rpvuqgu53vcct81rfhc9hv8lsgore4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLS-Da8VGwhJAQTZIM0PMYpCfPSmTzDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416073700005-f2rpvuqgu53vcct81rfhc9hv8lsgore4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416073700005:android:29e9b191cb009c70",
+        "android_client_info": {
+          "package_name": "inc.creaxt.muserear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416073700005-rbffd7f2so5j9dls8uo56bb58djamq5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.creaxt.muserear",
+            "certificate_hash": "35874601b616dab0b68bdb0dfae63c46a2a476db"
+          }
+        },
+        {
+          "client_id": "416073700005-l0hf2q0b2hvgn3v78evube66corvgipi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.creaxt.muserear",
+            "certificate_hash": "af02a79329699c7bbf56f10525fc67c253735454"
+          }
+        },
+        {
+          "client_id": "416073700005-blc1uqb35elgvk35vsqvbvt5v56eiujb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.creaxt.muserear",
+            "certificate_hash": "5f883b2dc7ac1f11b014d81278fee1e875c9ef2f"
+          }
+        },
+        {
+          "client_id": "416073700005-f2rpvuqgu53vcct81rfhc9hv8lsgore4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLS-Da8VGwhJAQTZIM0PMYpCfPSmTzDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416073700005-f2rpvuqgu53vcct81rfhc9hv8lsgore4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416073700005:android:afe422e0b3e8d76f",
+        "android_client_info": {
+          "package_name": "inc.creaxt.search_view"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416073700005-6hi7km2on2c7agp8rf2uipk9dt96liif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.creaxt.search_view",
+            "certificate_hash": "70ea04d98f3d06a470d621e4120bc3b89b47e45c"
+          }
+        },
+        {
+          "client_id": "416073700005-f2rpvuqgu53vcct81rfhc9hv8lsgore4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLS-Da8VGwhJAQTZIM0PMYpCfPSmTzDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416073700005-f2rpvuqgu53vcct81rfhc9hv8lsgore4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416073700005:android:34216bed678e1808",
+        "android_client_info": {
+          "package_name": "inc.creaxt.teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416073700005-78ldme7pkvtkt6c3c1mkcqfp0tp5i4f9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.creaxt.teacher",
+            "certificate_hash": "35874601b616dab0b68bdb0dfae63c46a2a476db"
+          }
+        },
+        {
+          "client_id": "416073700005-i0o0p8bdne4fbmrkamu1hfscvch3deja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.creaxt.teacher",
+            "certificate_hash": "af02a79329699c7bbf56f10525fc67c253735454"
+          }
+        },
+        {
+          "client_id": "416073700005-3nvfahi54ch2o5kp4qifrl2e1phq6ejd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.creaxt.teacher",
+            "certificate_hash": "c619fc70915f495c35aeed015c65aaec8433eebe"
+          }
+        },
+        {
+          "client_id": "416073700005-l5eoocq64kqkilgrf8ldqc8mfatfh6hq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "inc.creaxt.teacher",
+            "certificate_hash": "559426f62d157856af0db49f90b10b754aac0156"
+          }
+        },
+        {
+          "client_id": "416073700005-f2rpvuqgu53vcct81rfhc9hv8lsgore4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLS-Da8VGwhJAQTZIM0PMYpCfPSmTzDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416073700005-f2rpvuqgu53vcct81rfhc9hv8lsgore4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
